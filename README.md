@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 - 💻 **Data Engineer Intern** @ TD – building robust data pipelines and working with real-time financial data.
 - 📊 Publishing research on **TimeGAN for synthetic stock pattern generation**.
 - 🌐 Building websites with **AfterDark Creatives** — modern web design for bold brands.
-- 🚗 Founder of a **mobile car detailing business** – scaled from scratch to 5-figure revenue.
+- 🚗 Founder of a **S&P Detailing - mobile car detailing business** – scaled from scratch to 5-figure revenue.
 
 ## 🛠️ Tech Stack
 
@@ -17,15 +17,11 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 **ML/AI**: PyTorch, TensorFlow, Scikit-learn, XGBoost  
 **Tools**: Git, Docker, VS Code, Figma, GSAP
 
-## 📈 My GitHub Stats
-
-![Shaun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide=prs)
-
 ## 📫 Let's Connect
 
-- Portfolio: [shaunarulanandam.com](https://your-portfolio-link.com)
-- LinkedIn: [linkedin.com/in/shaunarulanandam](https://linkedin.com/in/shaunarulanandam)
-- Email: shaun.arulanandam@example.com
+- Portfolio: [(https://shaun2005.netlify.app/)](https://your-portfolio-link.com](https://shaun2005.netlify.app/))
+- LinkedIn: [linkedin.com/in/shaunarulanandam]([https://linkedin.com/in/shaunarulanandam](https://www.linkedin.com/in/shaun-arulanandam-85a43b266/))
+- Email: shaun.arulanandam@mail.utoronto.ca
 
 ---
 
