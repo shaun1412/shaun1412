@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 ## 📫 Let's Connect
 
 - Portfolio: [(https://shaun2005.netlify.app/)](https://your-portfolio-link.com](https://shaun2005.netlify.app/))
-- LinkedIn: [linkedin.com/in/shaunarulanandam]([https://linkedin.com/in/shaunarulanandam](https://www.linkedin.com/in/shaun-arulanandam-85a43b266/))
+- LinkedIn: [linkedin.com/in/shaunarulanandam]((https://www.linkedin.com/in/shaun-arulanandam-85a43b266/))
 - Email: shaun.arulanandam@mail.utoronto.ca
 
 ---
