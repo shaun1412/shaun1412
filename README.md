@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 - 🧠 **Machine Learning Researcher** @ University of Toronto – applying **Machine Learning & AI** to quantitative finance  
 - 💻 **Data Engineer Intern** @ TD – building data pipelines with real-time financial data with the AML team  
 - 📊 Previously worked on research with **Generative Adversarial Networks for Realistic Synthetic Stock Pattern Generation**  
-- 🌐 Co-founder of **AfterDark Creatives** – building bold, modern websites for growing brands [Check us out](https://afterdark-creatives.vercel.app/) 
+- 🌐 Co-founder of **AfterDark Creatives** – building bold, modern websites for growing brands [(check us out)](https://afterdark-creatives.vercel.app/) 
 - 🚗 Founder of **S&P Detailing** – scaled a mobile detailing startup to consistent 5-figure MRR
 - 📚 Founder of **Shaun's Tutoring** – scaled a 4-figure MRR tutoring company, helping students master advanced math and problem solving  
 
