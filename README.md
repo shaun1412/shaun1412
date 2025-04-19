@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 
 ## 🔭 What I'm Working On
 
-- 🧪 **Deep Learning Researcher** @ UPenn, Wharton & Cornell – working on **Diffusion Models** and generative AI  
-- 🧠 **Machine Learning Researcher** @ University of Toronto – applying **Machine Learning & AI** to quantitative finance  
+- 🧪 **Machine Learning Researcher** @ UPenn, Wharton & Cornell – working on **Diffusion Models** and generative AI  
+- 🧠 **Applied Machine Learning Researcher** @ University of Toronto – applying **Machine Learning & AI** to quantitative finance  
 - 💻 **Data Engineer Intern** @ TD – building data pipelines with real-time financial data with the AML team  
 - 📊 Previously worked on research with **Generative Adversarial Networks for Realistic Synthetic Stock Pattern Generation**  
 - 🌐 Co-founder of **AfterDark Creatives** – building bold, modern websites for growing brands [(check us out)](https://afterdark-creatives.vercel.app/) 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a Machine Learning enthusiast, full-stack developer, a
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, C/C++, SQL, MATLAB  
+**Languages:** Python, JavaScript, C/C++, SQL, MATLAB, R
 **Frameworks:** React, Node.js, Flask, Tailwind CSS  
 **ML/AI:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
 **Tools:** Git, Docker, VS Code, Figma, GSAP  
